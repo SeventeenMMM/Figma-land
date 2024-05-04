@@ -1,0 +1,19 @@
+@font-face {
+  font-family: g400;
+  src: url(../fonts/Graphik-Regular.ttf);
+}
+
+@font-face {
+  font-family: g700;
+  src: url(../fonts/Graphik-Bold.ttf);
+}
+
+@font-face {
+  font-family: r400;
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: r700;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
